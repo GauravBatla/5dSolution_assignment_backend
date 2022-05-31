@@ -1,0 +1,4 @@
+for run backend services
+
+1. npm install
+2. check database connection or connect with url mongodb
